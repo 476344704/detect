@@ -1,0 +1,6 @@
+{
+  "name": "Argus Vision Ops",
+  "description": "AI 视觉安防综合管控平台，涵盖全域态势大屏、多路实时监控与 PTZ 云台、智能告警闭环处置、分布式模型训练及系统规则配置。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
